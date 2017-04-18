@@ -36,7 +36,7 @@ def makeFolders():
         ae = 'ae'
         moc = 'mocha'
         nk = 'nuke'
-        sil = 'silhouette'
+        sil = ' silhouette'
         syn = 'syntheyes'
 
         # Combines Folders with Project Directory
